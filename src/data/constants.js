@@ -10,7 +10,7 @@ export const Bio = {
       "I am a 3rd year student pursuing a bachelor’s in Computer Science & Engineering from Amity University. I'm a coder and tech enthusiast with a great interest in Web Development and Data Science. I'm well versed with Data Structures and Algorithms in Java. I'm also very passionate about learning new things and working on new projects.",
     github: "https://github.com/parthmiddha",
     resume:
-      "",
+      "https://drive.google.com/file/d/1_UyrtPozdjVoLhf7vmScxdFNW2aOeCJo/view",
     linkedin: "https://www.linkedin.com/in/parth-middha-305289210/",
     twitter: "https://twitter.com/theParthMiddha",
 };
@@ -217,7 +217,7 @@ export const projects = [
     date: "March 2024",
     description:
       "A dynamic React-based Crypto Currency Tracking Website offering real-time market data and analysis of digital assets.",
-    image: "https://github-production-user-asset-6210df.s3.amazonaws.com/37166773/313504636-b6eb5b89-c704-4b50-a595-783a24693513.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240317%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240317T204738Z&X-Amz-Expires=300&X-Amz-Signature=0d84fb6248606cfb64a01cf31a568c4318234d1442117d65ccd4aaa9114fa996&X-Amz-SignedHeaders=host&actor_id=37166773&key_id=0&repo_id=773365925",
+    image: "https://private-user-images.githubusercontent.com/37166773/313504636-b6eb5b89-c704-4b50-a595-783a24693513.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA3MTQyMDYsIm5iZiI6MTcxMDcxMzkwNiwicGF0aCI6Ii8zNzE2Njc3My8zMTM1MDQ2MzYtYjZlYjViODktYzcwNC00YjUwLWE1OTUtNzgzYTI0NjkzNTEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE3VDIyMTgyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlNjQ1ZDJhMmRhMGIwMGMzMGY4MDg3ZGYwY2FlMzgzY2RkMjk1YWQ0ZjZiOTM1YTIwOGE5YzY3NTBkZTg4YTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IPHJ9yNk4ZOJyWj5OL-Rv0bV7ZWihWyyOalIyquEY9Q",
     tags: [
       "React Js",
       "MongoDb",
@@ -235,7 +235,7 @@ export const projects = [
     description:
       "Led the development of a groundbreaking multilingual phonetic intervention software addressing speech sound disorders. With remote accessibility, the software offered visual and auditory stimulation, encompassing comprehensive perceptual and production training for diverse disabilities in Hindi and English, bridging linguistic resource gaps in India.",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/37166773/313505337-f938a75f-c922-4cd0-bedc-6d965b8d8e33.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240317%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240317T210121Z&X-Amz-Expires=300&X-Amz-Signature=80ca3a90f3b46eb65b13d92cb748e0cb809320e6a1eb612903e4dcbc118e9c5e&X-Amz-SignedHeaders=host&actor_id=37166773&key_id=0&repo_id=746151692",
+      "https://private-user-images.githubusercontent.com/37166773/313505337-f938a75f-c922-4cd0-bedc-6d965b8d8e33.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA3MTQyNzQsIm5iZiI6MTcxMDcxMzk3NCwicGF0aCI6Ii8zNzE2Njc3My8zMTM1MDUzMzctZjkzOGE3NWYtYzkyMi00Y2QwLWJlZGMtNmQ5NjViOGQ4ZTMzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE3VDIyMTkzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhNDIyNjUwZGNmZDMwMTgzNDFmM2ZlMWI4ODcwMzJjYjE4NTg4OWFmNDdkNmQ1OWM1NGRhMmUyYjY3MWQyYjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._T4L0RFK-0bMG1iRa3iabpsfeE7J3vr5i4XFMnChoAE",
     tags: ["Python", "Keras", "TensorFlow", "Whisper API", "React"],
     category: "machine learning",
     github: "https://github.com/parthmiddha/SIH-Stutter-Detection",
@@ -268,7 +268,7 @@ export const projects = [
     description:
       "Explored Speech Emotion Recognition through advanced signal processing and deep learning models, identifying emotions in audio data. Implemented innovative feature engineering for nuanced emotion capture. Technologies Used- Librosa, Numpy, Pandas, Tensorflow, Keras, Matplotlib, Seaborn, Scikit-Learn.",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/37166773/313505701-37eda9e8-613d-4049-a220-58e5e0b3c26e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240317%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240317T210849Z&X-Amz-Expires=300&X-Amz-Signature=1e4153a01ad4924e52eb87abdddc398c4ee6d92b8857dbf9dbfce36bfc6e6566&X-Amz-SignedHeaders=host&actor_id=37166773&key_id=0&repo_id=725618359",
+      "https://private-user-images.githubusercontent.com/37166773/313505701-37eda9e8-613d-4049-a220-58e5e0b3c26e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA3MTQzNDQsIm5iZiI6MTcxMDcxNDA0NCwicGF0aCI6Ii8zNzE2Njc3My8zMTM1MDU3MDEtMzdlZGE5ZTgtNjEzZC00MDQ5LWEyMjAtNThlNWUwYjNjMjZlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE3VDIyMjA0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyNmM0NTQyMDI1YzJjYzFhMjQyYWQxOWI5ZWZlZWExNTk1OTZlODc1YWQ3YjhkNGQ1YzZlYmU2ZjA1ZjAyM2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xlYqSac3xCtO8pm1IdZLAclMbQix6O_QTC5xdY0RwcU",
     tags: ["Python", "Keras", "TensorFlow", "NumPy", "Pandas", "Matplotlib"],
     category: "machine learning",
     github: "https://github.com/parthmiddha/CodeClause_Speech_Emotion_Recognition",
