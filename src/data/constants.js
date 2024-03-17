@@ -248,7 +248,7 @@ export const projects = [
     description:
       "Designed and developed dynamic and user-friendly, personal portfolio website that showcases my skills, projects, and professional journey with sleek design and seamless navigation.",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/37166773/313505028-8b07a4a9-54d2-4bb8-9e86-dde9663a4098.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240317%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240317T205517Z&X-Amz-Expires=300&X-Amz-Signature=1d79e336d49a43e45e8f4080a6c6a147cfd95847c6c17d39650847ac97f35868&X-Amz-SignedHeaders=host&actor_id=37166773&key_id=0&repo_id=773506359",
+      "https://private-user-images.githubusercontent.com/37166773/313509594-b923bb72-6f61-4592-b5a5-cfe40465794b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA3MTQ1ODYsIm5iZiI6MTcxMDcxNDI4NiwicGF0aCI6Ii8zNzE2Njc3My8zMTM1MDk1OTQtYjkyM2JiNzItNmY2MS00NTkyLWI1YTUtY2ZlNDA0NjU3OTRiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE3VDIyMjQ0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdhYThhYzVjM2VlMTM4NTRkODFkMzgwZWM2ZTZhN2Q5ODY4OTdlZTdlYTNiNWVjZjc2ZDZmMTQxZDc1OWVlNTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HR0COzEJkcHrzA-LZQGqBSSUZhRWgcRz6YXK30WMwXY",
     tags: [
       "React Js",
       "Material UI",
