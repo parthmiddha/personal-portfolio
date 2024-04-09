@@ -217,7 +217,7 @@ export const projects = [
     date: "March 2024",
     description:
       "A dynamic React-based Crypto Currency Tracking Website offering real-time market data and analysis of digital assets.",
-    image: "https://private-user-images.githubusercontent.com/37166773/313504636-b6eb5b89-c704-4b50-a595-783a24693513.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA3MTQyMDYsIm5iZiI6MTcxMDcxMzkwNiwicGF0aCI6Ii8zNzE2Njc3My8zMTM1MDQ2MzYtYjZlYjViODktYzcwNC00YjUwLWE1OTUtNzgzYTI0NjkzNTEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE3VDIyMTgyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlNjQ1ZDJhMmRhMGIwMGMzMGY4MDg3ZGYwY2FlMzgzY2RkMjk1YWQ0ZjZiOTM1YTIwOGE5YzY3NTBkZTg4YTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IPHJ9yNk4ZOJyWj5OL-Rv0bV7ZWihWyyOalIyquEY9Q",
+    image: ".../public/crypto-tracker.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -235,7 +235,7 @@ export const projects = [
     description:
       "Led the development of a groundbreaking multilingual phonetic intervention software addressing speech sound disorders. With remote accessibility, the software offered visual and auditory stimulation, encompassing comprehensive perceptual and production training for diverse disabilities in Hindi and English, bridging linguistic resource gaps in India.",
     image:
-      "https://private-user-images.githubusercontent.com/37166773/313505337-f938a75f-c922-4cd0-bedc-6d965b8d8e33.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA3MTQyNzQsIm5iZiI6MTcxMDcxMzk3NCwicGF0aCI6Ii8zNzE2Njc3My8zMTM1MDUzMzctZjkzOGE3NWYtYzkyMi00Y2QwLWJlZGMtNmQ5NjViOGQ4ZTMzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE3VDIyMTkzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhNDIyNjUwZGNmZDMwMTgzNDFmM2ZlMWI4ODcwMzJjYjE4NTg4OWFmNDdkNmQ1OWM1NGRhMmUyYjY3MWQyYjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._T4L0RFK-0bMG1iRa3iabpsfeE7J3vr5i4XFMnChoAE",
+      ".../public/stutter-detection.png",
     tags: ["Python", "Keras", "TensorFlow", "Whisper API", "React"],
     category: "machine learning",
     github: "https://github.com/parthmiddha/SIH-Stutter-Detection",
@@ -248,7 +248,7 @@ export const projects = [
     description:
       "Designed and developed dynamic and user-friendly, personal portfolio website that showcases my skills, projects, and professional journey with sleek design and seamless navigation.",
     image:
-      "https://private-user-images.githubusercontent.com/37166773/313509594-b923bb72-6f61-4592-b5a5-cfe40465794b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA3MTQ1ODYsIm5iZiI6MTcxMDcxNDI4NiwicGF0aCI6Ii8zNzE2Njc3My8zMTM1MDk1OTQtYjkyM2JiNzItNmY2MS00NTkyLWI1YTUtY2ZlNDA0NjU3OTRiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE3VDIyMjQ0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdhYThhYzVjM2VlMTM4NTRkODFkMzgwZWM2ZTZhN2Q5ODY4OTdlZTdlYTNiNWVjZjc2ZDZmMTQxZDc1OWVlNTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HR0COzEJkcHrzA-LZQGqBSSUZhRWgcRz6YXK30WMwXY",
+      ".../public/personal-portfolio.png",
     tags: [
       "React Js",
       "Material UI",
@@ -268,7 +268,7 @@ export const projects = [
     description:
       "Explored Speech Emotion Recognition through advanced signal processing and deep learning models, identifying emotions in audio data. Implemented innovative feature engineering for nuanced emotion capture. Technologies Used- Librosa, Numpy, Pandas, Tensorflow, Keras, Matplotlib, Seaborn, Scikit-Learn.",
     image:
-      "https://private-user-images.githubusercontent.com/37166773/313505701-37eda9e8-613d-4049-a220-58e5e0b3c26e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA3MTQzNDQsIm5iZiI6MTcxMDcxNDA0NCwicGF0aCI6Ii8zNzE2Njc3My8zMTM1MDU3MDEtMzdlZGE5ZTgtNjEzZC00MDQ5LWEyMjAtNThlNWUwYjNjMjZlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE3VDIyMjA0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyNmM0NTQyMDI1YzJjYzFhMjQyYWQxOWI5ZWZlZWExNTk1OTZlODc1YWQ3YjhkNGQ1YzZlYmU2ZjA1ZjAyM2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xlYqSac3xCtO8pm1IdZLAclMbQix6O_QTC5xdY0RwcU",
+      ".../public/speech-emotion.png",
     tags: ["Python", "Keras", "TensorFlow", "NumPy", "Pandas", "Matplotlib"],
     category: "machine learning",
     github: "https://github.com/parthmiddha/CodeClause_Speech_Emotion_Recognition",
