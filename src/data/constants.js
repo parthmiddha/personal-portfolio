@@ -10,7 +10,7 @@ export const Bio = {
       "I am a 3rd year student pursuing a bachelor’s in Computer Science & Engineering from Amity University. I'm a coder and tech enthusiast with a great interest in Web Development and Data Science. I'm well versed with Data Structures and Algorithms in Java. I'm also very passionate about learning new things and working on new projects.",
     github: "https://github.com/parthmiddha",
     resume:
-      "https://drive.google.com/file/d/1_UyrtPozdjVoLhf7vmScxdFNW2aOeCJo/view",
+      "https://drive.google.com/file/d/1-0yfdp4hTOZPhYFFvm-2DztJdsdau0sq/view",
     linkedin: "https://www.linkedin.com/in/parth-middha-305289210/",
     twitter: "https://twitter.com/theParthMiddha",
 };
